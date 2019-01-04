@@ -21,7 +21,7 @@
           <nd4j.version>0.8.0</nd4j.version>
         <dl4j.version>0.8.0</dl4j.version>
         <datavec.version>0.8.0</datavec.version>
-        <arbiter.version>0.8.0</arbiter.version>
+        <arbiter.version>0.9.1</arbiter.version>
         <rl4j.version>0.8.0</rl4j.version>
 
         <!-- For Spark examples: change the _1 to _2 to switch between Spark 1 and Spark 2 -->
@@ -31,7 +31,7 @@
         <!-- Scala binary version: DL4J's Spark and UI functionality are released with both Scala 2.10 and 2.11 support -->
         <scala.binary.version>2.11</scala.binary.version>
 
-        <guava.version>19.0</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
         <logback.version>1.1.7</logback.version>
         <jfreechart.version>1.0.13</jfreechart.version>
         <jcommon.version>1.0.23</jcommon.version>
