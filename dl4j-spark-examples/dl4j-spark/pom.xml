@@ -12,7 +12,7 @@
     <artifactId>dl4j-spark</artifactId>
 
     <properties>
-        <jcommander.version>1.27</jcommander.version>
+        <jcommander.version>1.75</jcommander.version>
     </properties>
     
     <dependencyManagement>
